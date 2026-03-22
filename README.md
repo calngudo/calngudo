@@ -67,14 +67,17 @@ Azure · PostgreSQL · Power BI · Docker · Git · ServiceNow
 
 ## 📜 Certifications
 
-- **DataCamp** — Data Analyst with R (2024)
-- 🔗 [Program details]([https://your-certification-link-here](https://www.datacamp.com/statement-of-accomplishment/track/8c51ecece0282cbe26600da4c5fe114c6671fdc3?raw=1))
-- **Forage** — Accenture Data Analytics & Visualization (2024)
-- 🔗 [Program details]([https://your-certification-link-here](https://www.theforage.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_haGCC9ZhphgrNpgQr_1728269398572_completion_certificate.pdf))
-- **Forage** — BCG Data Science Simulation — In Progress** (Finish by fall)
-- 🔗 [Program details]([https://your-certification-link-here](https://www.theforage.com/simulations/bcg/data-science-ccdz))
-- 📘 **IBM Data Engineering Professional Certificate — In Progress** (Finish by fall)
-- - 🔗 [Program details]([https://your-certification-link-here]((https://www.coursera.org/professional-certificates/ibm-data-engineer))
+- **DataCamp** — Data Analyst with R (2024)  
+  🔗 [Program details](https://www.datacamp.com/statement-of-accomplishment/track/8c51ecece0282cbe26600da4c5fe114c6671fdc3?raw=1)
+
+- **Forage** — Accenture Data Analytics & Visualization (2024)  
+  🔗 [Program details](https://www.theforage.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_haGCC9ZhphgrNpgQr_1728269398572_completion_certificate.pdf)
+
+- **Forage** — BCG Data Science Simulation — In Progress (Finish by fall)  
+  🔗 [Program details](https://www.theforage.com/simulations/bcg/data-science-ccdz)
+
+- 📘 **IBM Data Engineering Professional Certificate — In Progress (Finish by fall)**  
+  🔗 [Program details](https://www.coursera.org/professional-certificates/ibm-data-engineer)
 
 ---
 
