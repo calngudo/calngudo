@@ -18,11 +18,10 @@
 
 ### **Data Analyst (Contract, Full-Time)**  
 **Gateway Services Inc.** — Guelph, ON *(June 2023 – Sept 2023)*  
-- Built an enterprise IT asset database covering **156 North American locations**, tracking millions in assets for cloud deployment on ServiceNow  
-- Developed a **custom ServiceNow dashboard** using SQL and Power BI to improve asset visibility and reporting  
-- Migrated **10,000+ records** from Excel to Microsoft Azure, ensuring schema consistency and data integrity  
-- Automated device enrollment and updates via **Microsoft Intune & Entra ID**, reducing manual work by **~90%**  
-- Unified multiple legacy inventory workflows into a scalable, cloud-based system
+- Maintained an enterprise IT asset database spanning 156 North American locations, handling millions of records for cloud-based tracking
+- Built and supported data workflows and ETL pipelines to migrate 10,000+ records from Excel to Microsoft Azure, ensuring accuracy and consistency
+- Assisted with device enrollment and updates via Microsoft Intune & Entra ID
+- Contributed to consolidating multiple legacy inventory processes into a cloud-accessible, organized system
 
 ---
 
